@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinExcel", "CombinExcel\CombinExcel.csproj", "{A904A7BE-50AE-4943-816E-C2BF39DD7298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A904A7BE-50AE-4943-816E-C2BF39DD7298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A904A7BE-50AE-4943-816E-C2BF39DD7298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A904A7BE-50AE-4943-816E-C2BF39DD7298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A904A7BE-50AE-4943-816E-C2BF39DD7298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A42787-2AE3-49BD-B5A8-0C4566BFD419}
+	EndGlobalSection
+EndGlobal
